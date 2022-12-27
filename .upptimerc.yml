@@ -22,7 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dianshiapp.com
   # baseUrl: /your-repo-name
-  logoUrl: https://cdn.taitopia.cn/burrito/landing/kv/kv_0923.png
+  logoUrl: https://cdn.dianshiapp.com/burrito/landing/kv/kv_0923.png
   name: Status page of Taitopia services
   introTitle: "This is the status page of some of the **Taitopia** public-facing services"
   introMessage: Welcome to the status page of Taitopia, we are sorry if you run into incidents due to downtime of our services!
