@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.dianshiapp.com): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Taichi Developers](https://taichi.graphics/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/taichi-dev/taitopia-status-page/workflows/Uptime%20CI/badge.svg)](https://github.com/taichi-dev/taitopia-status-page/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/taichi-dev/taitopia-status-page/workflows/Response%20Time%20CI/badge.svg)](https://github.com/taichi-dev/taitopia-status-page/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -25,5 +25,5 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Taichi Developers](https://taichi.graphics/)
+- Code: [MIT](./LICENSE) ©
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
